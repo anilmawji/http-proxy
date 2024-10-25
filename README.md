@@ -1,5 +1,5 @@
 <h1 align="center">
-  HTTP Web Filter
+  Web Filter
 </h1>
 
 Web proxy that blocks webpages containing select keywords. Made to work on Unix-like systems.
